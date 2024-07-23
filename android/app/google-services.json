@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "49377129622",
+    "project_id": "nusantaradelight-91753",
+    "storage_bucket": "nusantaradelight-91753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49377129622:android:a375e2b3b4299930b7beb7",
+        "android_client_info": {
+          "package_name": "com.example.nusantara_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFBuGHLmRN-y0A75V0Nthju6nPRUvMNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49377129622:android:9cbd4d1be755f1d7b7beb7",
+        "android_client_info": {
+          "package_name": "com.example.nusantara_delight"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFBuGHLmRN-y0A75V0Nthju6nPRUvMNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
